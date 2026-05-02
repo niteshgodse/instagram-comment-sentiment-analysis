@@ -59,13 +59,13 @@ Based on the analysis, it was observed that most comments were neutral, while po
 ---
 
 ## Project Structure
-
+```
 │
 ├── data/
 ├── notebooks/
 ├── images/
 ├── README.md
-
+```
 
 ---
 
